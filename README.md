@@ -23,3 +23,5 @@
 ```
 	npm run ios
 ```
+
+![alt text](https://github.com/alluster/memo-app/blob/master/assets/images/app-images/1.jpg)
