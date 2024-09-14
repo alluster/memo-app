@@ -24,4 +24,4 @@
 	npm run ios
 ```
 
-![alt text](https://github.com/alluster/memo-app/blob/master/assets/images/app-images/1.jpg)
+![App Screen Examples](https://raw.githubusercontent.com/alluster/memo-app/master/assets/images/app-images/screens.png)
